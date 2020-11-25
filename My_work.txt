@@ -1,0 +1,6 @@
+show databases;
+use jerrynew;
+show tables;
+describe employee;
+select * from employee;
+insert into employee (name,place)values('melvin','pala');
